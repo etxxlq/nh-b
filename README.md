@@ -1,8 +1,11 @@
 # nh-b
 网站框架指纹（及版本）识别工具，网站标题批量提取工具
 
+
 ***第一次运行会生成config文件夹，需要将指纹库放在config文件夹下面，否则会报错***
 ![image](https://github.com/user-attachments/assets/f2507423-3fcf-4635-b536-1e821e9e6a08)
+
+运行之后会自动在result目录下生成本地数据库，可以安装DB Browser for SQLite软件进行打开查看
 
 
 ## 网站框架指纹识别
